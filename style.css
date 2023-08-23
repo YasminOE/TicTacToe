@@ -178,6 +178,7 @@ tr.board-row > td > button {
 tr.board-row > td > button > span{
   font-size: 3.9rem;
   font-weight: 900;
+  background: transparent;
 }
 
 tr.board-row > td > button > span.playerX{
